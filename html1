@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Um só caminho: Cristo</title>
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+    
+    <header>
+        <h1 class="espaçamento">Marco Zero</h1>
+         <h4>site by David</h4>
+         <p>
+            Olá meu nome é David, e eu vou falar um pouco sobre <b> o principal <br>
+             ponto túristico do Recife!</b>
+          </p>
+
+    </header>
+    
+    <section>
+             <h3>Marco Zero</h3>
+        
+            <img src="/imagens/praça-do-marco-zero.jpg" alt="Marco Zero">
+                                    
+            <p> A Praça Rio Branco, também conhecida como <b>Marco Zero</b>, é um espaço público <br>
+                localizado no bairro do Recife da cidade homônima, capital de Pernambuco.
+            </p>           
+          
+    </section>
+
+    <section>
+        <h3>Onde fica e qual é sua importância?</h3>
+       
+        <img src="/imagens/Mzero-zoomOut.jpg" alt="Marco Zero zoom-out">
+             
+        <p> O local fica próximo ao <b>Porto do Recife</b> e abriga o Marco Zero da cidade do Recife. <br>
+            É deste marco que são feitas todas as medidas oficiais de distâncias rodoviárias locais.            
+        </p>
+           
+        <p> O lugar é um dos pontos <b>mais importantes</b> na capital Pernambucana, <br>
+            pois é também uma <b>região de forte movimento</b> durante o Carnaval.
+        </p>
+              
+       
+</section>
+
+<footer>
+    <div>
+       <a href="http://127.0.0.1:5500/indexxx.html">página 2</a>
+        <p>Site Útilizado na pesquisa:</p>
+        <a href="https://www.google.com/search?q=marco+zero+recife&source=lmns&hl=pt-BR&sa=X&ved=2ahUKEwjXjLye_5L6AhXSupUCHdAOBHUQ_AUoAHoECAEQAA">Link da pesquisa</a>
+    </div>
+</footer>
+
+</body>
+</html>
